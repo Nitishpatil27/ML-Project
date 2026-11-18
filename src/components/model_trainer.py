@@ -1,0 +1,1 @@
+# Model training in machine learning is the iterative process of feeding data into an algorithm so it can adjust its internal parameters (such as weights and biases) to recognize patterns and make accurate predictions

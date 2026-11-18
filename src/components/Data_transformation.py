@@ -1,0 +1,1 @@
+# Data transformation is the process of converting raw data from its original format or structure into a clean, standardized, and analysis-ready format
